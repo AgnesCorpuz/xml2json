@@ -1,0 +1,16 @@
+C:\Users\ccorpuz\source\repos\xml2json\xml2json\bin\Release\xml2json.exe.config
+C:\Users\ccorpuz\source\repos\xml2json\xml2json\bin\Release\xml2json.exe.manifest
+C:\Users\ccorpuz\source\repos\xml2json\xml2json\bin\Release\xml2json.application
+C:\Users\ccorpuz\source\repos\xml2json\xml2json\bin\Release\xml2json.exe
+C:\Users\ccorpuz\source\repos\xml2json\xml2json\bin\Release\xml2json.pdb
+C:\Users\ccorpuz\source\repos\xml2json\xml2json\bin\Release\Newtonsoft.Json.dll
+C:\Users\ccorpuz\source\repos\xml2json\xml2json\bin\Release\Newtonsoft.Json.xml
+C:\Users\ccorpuz\source\repos\xml2json\xml2json\obj\Release\xml2json.frmXml2Json.resources
+C:\Users\ccorpuz\source\repos\xml2json\xml2json\obj\Release\xml2json.Properties.Resources.resources
+C:\Users\ccorpuz\source\repos\xml2json\xml2json\obj\Release\xml2json.csproj.GenerateResource.Cache
+C:\Users\ccorpuz\source\repos\xml2json\xml2json\obj\Release\xml2json.csproj.CoreCompileInputs.cache
+C:\Users\ccorpuz\source\repos\xml2json\xml2json\obj\Release\xml2json.TrustInfo.xml
+C:\Users\ccorpuz\source\repos\xml2json\xml2json\obj\Release\xml2json.exe.manifest
+C:\Users\ccorpuz\source\repos\xml2json\xml2json\obj\Release\xml2json.application
+C:\Users\ccorpuz\source\repos\xml2json\xml2json\obj\Release\xml2json.exe
+C:\Users\ccorpuz\source\repos\xml2json\xml2json\obj\Release\xml2json.pdb
